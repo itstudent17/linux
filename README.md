@@ -22,6 +22,8 @@ Generate an SSH key and add it to the Gitlab / Github / Bitbucket account settin
 
 `cat cat ~/.ssh/id_ed25519.pub`
 
+Clone a repository, go into a repository folder and set your credentials:
+
 `git config --local user.name itstudent17`
 
 `git config --local user.email itstudent17@outlook.com`
@@ -48,7 +50,7 @@ Then install, list and use appropriate node version
 
 Download and install .deb package from the official website (https://itsfoss.com/install-chrome-linux-mint/)
 
-sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb
+`sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb`
 
 ## VS Code
 
@@ -64,11 +66,11 @@ Format on Save: true
 
 ### extensions
 
-Prettier - Code formatter
+Prettier - Code formatter (edit settings.json after installation)
 
 ESLint
 
-Simple React Snippets (Burke Holland)
+[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) (Burke Holland)
 
 Live Server (Ritwick Dey)
 
