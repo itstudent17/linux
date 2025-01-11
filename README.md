@@ -60,19 +60,19 @@ Download and install .deb package from the official website (https://itsfoss.com
 
 ### settings
 
-Auto Save: onFocusChange
+* Auto Save: onFocusChange
 
-Format on Save: true
+* Format on Save: true
 
 ### extensions
 
-Prettier - Code formatter (edit settings.json after installation)
+* Prettier - Code formatter (edit settings.json after installation)
 
-ESLint
+* ESLint
 
-[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) (Burke Holland)
+* [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) (Burke Holland)
 
-Live Server (Ritwick Dey)
+* Live Server (Ritwick Dey)
 
 ## PHPStorm / WebStorm
 
