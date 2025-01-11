@@ -16,7 +16,7 @@ Install the [latest available version](https://git-scm.com/downloads/linux) of g
 
 `apt update; apt install git`
 
-Generate an SSH key and add it to the Gitlab / Github / Bitbucket account settings tyo be able to clone repos via SSH
+Generate an SSH key and add it to the Gitlab / Github / Bitbucket account settings to be able to clone repos via SSH
 
 `ssh-keygen`
 
@@ -110,7 +110,7 @@ System Settings - Keyboard Shortcuts - View and Customize Shortcuts - Typing - S
 
 ### VPN
 
-Network Settings - Import from file... and choose a vpn file configuration - Enter login and password
+Network Settings - Click Plus at the bottom - Import from file... and choose a VPN configuration file - Enter login and password
 
 ## Other info
 
