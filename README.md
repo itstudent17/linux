@@ -14,7 +14,9 @@ Install the [latest available version](https://git-scm.com/downloads/linux) of g
 
 `sudo add-apt-repository ppa:git-core/ppa`
 
-`apt update; apt install git`
+`sudo apt update`
+
+`sudo apt install git`
 
 Generate an SSH key and add it to the Gitlab / Github / Bitbucket account settings to be able to clone repos via SSH
 
@@ -40,11 +42,13 @@ or
 
 Then install, list and use appropriate node version
 
-`nvm install stable`
+`nvm install <stable | 20 | carbon>`
 
 `nvm ls`
 
-`nvm use stable`
+`nvm use <stable | 20 | carbon>`
+
+`nvm alias default <stable | 20 | carbon>`
 
 ## Chrome
 
@@ -96,19 +100,21 @@ Go to the [official website](https://telegram.org/) and download archive, unzip 
 | :------ | :----------------: |
 | history | show last commands |
 | clear   |   clear terminal   |
+| chmod +x shell.sh  |   give shell script excecutable rights |
 
 | Hotkey           |         Description          |
 | :--------------- | :--------------------------: |
 | Ctrl + Alt + T   |     launch new terminal      |
 | Shift + Ctrl + T | new tab in existing terminal |
+| Ctrl + Alt + D | hide all windows |
 
 ## Customise System Settings
 
 ### Keyboard layout
 
-System Settings - Keyboard - Layouts - Plus sign in the bottom to add language - Choose and add a language - Options to change switching to another layout- (Mint)
+System Settings - Keyboard - Layouts - + Add language - Choose language - Options to change switching to another layout - (Mint)
 
-System Settings - Keyboard Shortcuts - View and Customize Shortcuts - Typing - Switch to nexy Input Source (Ubuntu)
+System Settings - Keyboard Shortcuts - View and Customize Shortcuts - Typing - Switch to next Input Source (Ubuntu)
 
 ### VPN
 
@@ -116,4 +122,4 @@ Network Settings - Click Plus at the bottom - Import from file... and choose a V
 
 ## Other info
 
-In Ubuntu distro programs (Chromium, Telegram, etc.) can be installed via Snap Store App
+In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store App
