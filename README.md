@@ -105,7 +105,7 @@ Go to the [official website](https://telegram.org/) and download archive, unzip 
 | Hotkey           |         Description          |
 | :--------------- | :--------------------------: |
 | Ctrl + Alt + T   |     launch new terminal      |
-| Shift + Ctrl + T | new tab in existing terminal |
+| Ctrl + Shift + T | new tab in existing terminal |
 | Ctrl + Alt + D | hide all windows |
 | PrintScreen | Take screenshot with options  |
 | Shift + PrintScreen | Take screenshot of all the screen  |
