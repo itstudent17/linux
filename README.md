@@ -148,7 +148,7 @@ In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store Ap
 
 `yarn` or `yarn install`
 
-`yarn` or `yarn start`
+`yarn start`
 
 ## vite
 
