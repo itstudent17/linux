@@ -150,6 +150,8 @@ In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store Ap
 
 `yarn start`
 
+Created by npm or yarn the app starts at  `http://localhost:3000`
+
 ## vite
 
 `npx create vite@latest`
