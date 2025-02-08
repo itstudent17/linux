@@ -136,11 +136,19 @@ In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store Ap
 
 `npx create-react-app . --template typescript`
 
+`npm install`
+
+`npm run start`
+
 ## yarn
 
 `yarn create-react app <project-name> --template typescript`
 
 `yarn create-react app . --template typescript`
+
+`yarn` or `yarn install`
+
+`yarn` or `yarn start`
 
 ## vite
 
