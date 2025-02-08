@@ -125,3 +125,21 @@ Network Settings - Click Plus at the bottom - Import from file... and choose a V
 ## Other info
 
 In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store App
+
+hr
+
+# Create React App
+
+## With npx
+
+`npx create-react-app <project-name> --template typescript`
+
+`npx create-react-app . --template typescript`
+
+## With yarn
+
+`yarn create-react app <project-name> --template typescript`
+
+`yarn create-react app . --template typescript`
+
+
