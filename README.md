@@ -152,14 +152,15 @@ In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store Ap
 
 Created by npm or yarn the app starts at  `http://localhost:3000`
 
+## vite
+
+`npx create vite@latest`
+
 ---
 
 
 [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+
 Антон Ларичев
-
-## vite
-
-`npx create vite@latest`
 
 
