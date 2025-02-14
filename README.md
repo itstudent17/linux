@@ -159,6 +159,8 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 ---
 # Bitbucket
 
+Add an ssh key: [https://bitbucket.org/account/settings/ssh-keys/](https://bitbucket.org/account/settings/ssh-keys/)
+
 In order to delete a repo in Butbucket follow the steps: go to the repository page, choose **Repository settings** on the left sidebar, then **General / Repository details**, **Manage repository** to the right, **Delete**
 
 I order to delete the whole project you need to delete all repositories in the project first. After deleting all enclosed repositories delete the project itself as you delete a separate repository.
