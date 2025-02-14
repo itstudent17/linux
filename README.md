@@ -163,11 +163,15 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 
 Антон Ларичев
 
+[Михаил Непомнящий](https://www.youtube.com/@mishanep)
+
+[Github](https://github.com/michey85)
+
 ---
 
 # React Developer Interviews
 
 [15 questions](https://github.com/evgenii-studitskikh/react-ru-interview-questions)
 
-[100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet))
+[100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet)
 
