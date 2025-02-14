@@ -159,7 +159,7 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 ---
 # Bitbucket
 
-In order to delete a repo in Butbucket follow the steps: go to the repository page, choose **Repository settings** on the left sidebar, Then General / Repository details, Manage repository to the right, Delete
+In order to delete a repo in Butbucket follow the steps: go to the repository page, choose **Repository settings** on the left sidebar, then **General / Repository details**, **Manage repository** to the right, **Delete**
 
 
 ---
