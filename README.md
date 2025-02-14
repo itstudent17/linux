@@ -197,5 +197,11 @@ I order to delete the whole project you need to delete all repositories in the p
 
 [100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet)
 
+# Windows
 
+| Command |    Description     |
+| :------ | :----------------: |
+| Win + R | regedit |
+| Win + Shift  + S | make screenshot |
+| Win + R | record video |
 
