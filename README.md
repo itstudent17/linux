@@ -168,7 +168,7 @@ In order to delete a repo in Butbucket follow the steps: go to the repository pa
 
 `**some text**` to make text bold
 
-`---` adds horizontalline
+`---` adds horizontal line
 
 `# ## ### ...` for headings
 
