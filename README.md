@@ -157,6 +157,25 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 `npx create vite@latest`
 
 ---
+# Bitbucket
+
+In order to delete a repo in Butbucket follow the steps: go to the repository page, choose **Repository settings** on the left sidebar, Then General / Repository details, Manage repository to the right, Delete
+
+
+---
+
+# Markdown
+
+`**some text**` to make text bold
+
+`---` adds horizontalline
+
+`# ## ### ...` for headings
+
+`[text](url)` for links 
+
+
+---
 
 
 [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
@@ -174,4 +193,6 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 [15 questions](https://github.com/evgenii-studitskikh/react-ru-interview-questions)
 
 [100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet)
+
+
 
