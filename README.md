@@ -159,9 +159,15 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 `cd <vite-project>`
 
 `npm i` / `yarn install` / `yarn`
-``
 
 ---
+
+`rm -rf node_modules`
+
+`npm cache clean --force`
+
+`yarn cache clean`
+
 # Bitbucket
 
 Add an ssh key: [https://bitbucket.org/account/settings/ssh-keys/](https://bitbucket.org/account/settings/ssh-keys/)
