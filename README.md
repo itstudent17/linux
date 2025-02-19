@@ -204,6 +204,8 @@ I order to delete the whole project you need to delete all repositories in the p
 
 CSS files are imported by their address: `import "./index.css";` 
 
+Images are imported like objects/components: `import { logo } "./logo.svg";` 
+
 # React Developer Interviews
 
 [15 questions](https://github.com/evgenii-studitskikh/react-ru-interview-questions)
