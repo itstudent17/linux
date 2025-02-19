@@ -200,7 +200,9 @@ I order to delete the whole project you need to delete all repositories in the p
 
 [Github](https://github.com/michey85)
 
----
+# React
+
+CSS files are imported by thier address: `import "./index.css";` 
 
 # React Developer Interviews
 
