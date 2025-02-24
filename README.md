@@ -126,6 +126,8 @@ Network Settings - Click Plus at the bottom - Import from file... and choose a V
 
 In Ubuntu programs (Chromium, Telegram, etc.) can be installed via Snap Store App
 
+Wallpapers are stored in /usr/share/backgrounds
+
 ---
 
 # Create React App
