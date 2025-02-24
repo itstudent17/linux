@@ -188,6 +188,8 @@ I order to delete the whole project you need to delete all repositories in the p
 
 `[text](url)` for links 
 
+`*`, `+`, `-` for bullets
+
 
 ---
 
@@ -219,4 +221,22 @@ Images are imported like objects/components: `import { logo } "./logo.svg";`
 | Win + R | regedit |
 | Win + Shift  + S | make screenshot |
 | Win + R | record video |
+
+# Interviews
+
+Microfrontends, Feature Sliced Design,
+
+
+React Patterns:
+
+* render props
+* container / presentational components
+* Hight Order components (React.memo(), React.forwardRef())
+* Reducer
+* Observer (Mobx)
+
+
+"Рендер-пропсы" (render props) - это паттерн в React, который позволяет передавать компоненту функцию через пропсы, которая затем используется для определения, что компонент должен отрисовать
+
+
 
