@@ -195,6 +195,9 @@ I order to delete the whole project you need to delete all repositories in the p
 
 ---
 
+# Youtubers
+
+[Codevolution (Wishvas)](https://www.youtube.com/@Codevolution/playlists)
 
 [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
 
@@ -223,6 +226,11 @@ Images are imported like objects/components: `import { logo } "./logo.svg";`
 | Win + R | regedit |
 | Win + Shift  + S | make screenshot |
 | Win + R | record video |
+
+## Software
+
+[https://github.com/clsid2/mpc-hc/releases](https://github.com/clsid2/mpc-hc/releases)
+
 
 # Interviews
 
