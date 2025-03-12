@@ -140,7 +140,7 @@ Wallpapers are stored in /usr/share/backgrounds
 
 `npm install`
 
-`npm run start`
+`npm start` / `npm run start`
 
 ## yarn
 
