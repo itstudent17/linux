@@ -76,6 +76,8 @@ Download and install .deb package from the official website (https://itsfoss.com
 
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) (Burke Holland)
 
+* [ES7+ React/Redux/React-Nati](https://github.com/r5n-labs/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md) (dsznajder)
+
 * Live Server (Ritwick Dey)
 
 ## PHPStorm / WebStorm
