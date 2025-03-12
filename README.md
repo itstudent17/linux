@@ -231,7 +231,15 @@ Images are imported like objects/components: `import { logo } "./logo.svg";`
 
 ## Software
 
+MPC-HC Player
+
 [https://github.com/clsid2/mpc-hc/releases](https://github.com/clsid2/mpc-hc/releases)
+
+[Speed settings](https://www.youtube.com/watch?v=Nu6skiGa3c8)
+
+![Воспроизведение - Шаг скорости](https://github.com/user-attachments/assets/e2c7ccaf-5514-41c9-9201-a475c156e7d5)
+
+![Вывод - Рендер аудио](https://github.com/user-attachments/assets/eaed1336-8943-4885-b857-53bb371ef85e)
 
 
 # Interviews
