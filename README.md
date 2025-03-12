@@ -192,6 +192,8 @@ I order to delete the whole project you need to delete all repositories in the p
 
 `[text](url)` for links 
 
+`![alt text](filename)` for images
+
 `*`, `+`, `-` for bullets
 
 
