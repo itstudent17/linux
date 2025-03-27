@@ -158,11 +158,13 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 
 # Vite
 
-`npx create vite@latest` for npm / `yarn create vite` for yarn
+`npm create vite@latest my-app --template` for npm / `yarn create vite my-app --template` for yarn
 
-`cd <vite-project>`
+`cd my-app`
 
 `npm i` / `yarn install` / `yarn`
+
+`npm run dev` / `yarn start`
 
 ---
 
