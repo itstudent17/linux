@@ -146,9 +146,9 @@ Wallpapers are stored in /usr/share/backgrounds
 
 ## yarn
 
-`yarn create-react app <project-name> --template typescript`
+`yarn create react-app <project-name> --template typescript`
 
-`yarn create-react app . --template typescript`
+`yarn create react-app . --template typescript`
 
 `yarn` or `yarn install`
 
