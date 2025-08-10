@@ -22,7 +22,7 @@ Generate an SSH key and add it to the Gitlab / Github / Bitbucket account settin
 
 `ssh-keygen`
 
-`cat cat ~/.ssh/id_ed25519.pub`
+`cat ~/.ssh/id_ed25519.pub`
 
 Clone a repository, go into a repository folder and set your credentials:
 
