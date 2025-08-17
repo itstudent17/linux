@@ -56,7 +56,7 @@ Download and install .deb package from the official website (https://itsfoss.com
 
 `sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb`
 
-Best VPN Chrome extension so far is **Free VPN Proxy - 1VPN **
+Best VPN Chrome extension so far is **Free VPN Proxy - 1VPN**
 
 ## VS Code
 
