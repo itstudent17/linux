@@ -166,7 +166,7 @@ Created by npm or yarn the app starts at  `http://localhost:3000`
 
 `npm i` / `yarn install` / `yarn`
 
-`npm run dev` / `yarn start`
+`npm run dev` / `yarn dev`
 
 ---
 
