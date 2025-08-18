@@ -36,8 +36,8 @@ Git commands
 | :------ | :----------------: |
 | git branch | display local branches |
 | git branch -r | display remote branches |
-| git branch --al | display all branches |
-| git branch <branchName> -d | delete selected branch |
+| git branch --all | display all branches |
+| git branch branch-name -d | delete selected branch |
 
 ## NVM
 
