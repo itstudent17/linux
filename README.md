@@ -30,6 +30,15 @@ Clone a repository, go into a repository folder and set your credentials:
 
 `git config --local user.email itstudent17@outlook.com`
 
+Git commands
+
+| Command |    Description     |
+| :------ | :----------------: |
+| git branch | display local branches |
+| git branch -r | display remote branches |
+| git branch --al | display all branches |
+| git branch <branchName> -d | delete selected branch |
+
 ## NVM
 
 Use install & update script from the [NVM Github page](https://github.com/nvm-sh/nvm)
