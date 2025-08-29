@@ -37,7 +37,7 @@ Git commands
 | git branch | display local branches |
 | git branch -r | display remote branches |
 | git branch --all | display all branches |
-| git branch -D \<branch-name\> | delete selected branch |
+| git branch -D \<branch-name\> | delete local branch |
 | git fetch origin | update local repository |
 | git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 
