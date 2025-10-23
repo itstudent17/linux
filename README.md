@@ -41,6 +41,10 @@ Git commands
 | git fetch origin | update local repository |
 | git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 
+Delete all local brances except dev:
+
+`git branch | grep -v "dev" | xargs git branch -D`
+
 ## NVM
 
 Use install & update script from the [NVM Github page](https://github.com/nvm-sh/nvm)
