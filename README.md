@@ -223,6 +223,10 @@ Put your code inside bacticks to hightlight it with grey. Use ``` before and aft
 
 [Codevolution (Wishvas)](https://www.youtube.com/@Codevolution/playlists)
 
+[Net Ninja](https://www.youtube.com/@NetNinja/playlists)
+
+[https://github.com/iamshaunjp](https://github.com/iamshaunjp)
+
 [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
 
 Антон Ларичев
@@ -279,6 +283,13 @@ React Patterns:
 
 
 "Рендер-пропсы" (render props) - это паттерн в React, который позволяет передавать компоненту функцию через пропсы, которая затем используется для определения, что компонент должен отрисовать
+
+
+### APIs
+
+[The Star Wars API](https://swapi.dev/)
+
+
 
 
 
