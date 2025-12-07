@@ -151,6 +151,8 @@ Wallpapers are stored in /usr/share/backgrounds
 
 # Create React App
 
+CRA is a utility to create React app boilerplate. Since February 14, 2005 is officially depricated. There is no way to install boilerplate for specific React version; we have to adapt boilerplate to particular React version mannually. Firstly, create latest React version boilerplate, then remove node-modules and package-lock.json, and edit package.json for the desired React version. Finally, install new packages and start your application. 
+
 ## npx
 
 `npx create-react-app <project-name> --template typescript`
