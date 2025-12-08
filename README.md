@@ -121,6 +121,8 @@ Go to the [official website](https://telegram.org/) and download archive, unzip 
 | clear   |   clear terminal   |
 | chmod +x shell.sh  |   give shell script excecutable rights |
 
+`sudo apt purge <program>` removes a program
+
 | Hotkey           |         Description          |
 | :--------------- | :--------------------------: |
 | Ctrl + Alt + T   |     launch new terminal      |
