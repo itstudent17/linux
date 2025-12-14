@@ -35,7 +35,7 @@ Clone a repository, go into a repository folder and set your credentials:
 Dealing with branches:
 
 | Command |    Description     |
-| ------: | :----------------: |
+| :------ | :----------------: |
 | `git branch` | displays local branches |
 | `git branch -r` | displays remote branches |
 | `git branch --all` | displays both local and remote branches |
