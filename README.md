@@ -42,7 +42,9 @@ Dealing with branches:
 | `git checkout {branch-name}` | checkout into an existing branch |
 | `git checkout -b {new-branch-name}` | create a new branch and checkout into it |
 | `git checkout {branch-name} origin/{branch-name}` | checkout a remote branch |
+| `git branch -m {new-branch-name}` | rename local branch |
 | `git branch -D {branch-name}` | delete local branch |
+
 
 Delete all local branches except **master**: `git branch | grep -v master | xargs git branch -D`
 
