@@ -37,36 +37,19 @@ Dealing with branches:
 | Command |    Description     |
 | :-----: | :----------------: |
 | `git branch` | displays local branches |
-| `git branch -r` | checkout a remote branch |
-| `git branch --all` | checkout a remote branch |
-| `git checkout <branch-name>` | checkout a remote branch |
-| `git checkout -b <new-branch-name>` | checkout a remote branch |
-| `git checkout -b <new-branch-name>` | checkout a remote branch |
-| `git branch --all` | checkout a remote branch |
-| `git branch --all` | checkout a remote branch |
-| `git branch --all` | checkout a remote branch |
-
-Dealing with branches:
-
-`git branch` displays local branches
-
-`git branch -r` displays remote branches
-
-`git branch --all` displays both local and remote branches
-
-`git checkout <branch-name>` checkout into an existing branch
-
-`git checkout -b <new-branch-name>` create new branch and checkout into it
-
-`git branch -D <branch-name>` delete local branch
-
-`git branch | grep -v master | xargs git branch -D` delete all local branches except master
+| `git branch -r` | displays remote branches |
+| `git branch --all` | displays both local and remote branches |
+| `git checkout {branch-name}` | checkout into an existing branch |
+| `git checkout -b {new-branch-name}` | create a new branch and checkout into it |
+| `git branch -D <branch-name>` | delete local branch |
+| `git branch | grep -v **master** | xargs git branch -D` | delete all local branches except **master** |
 
 Dealing with commits:
 
-`git log` show last commits
-
-`git reset --hard HEAD~n` reset last n local commits
+| Command |    Description     |
+| :-----: | :----------------: |
+| `git log` | show last commits |
+| `git reset --hard HEAD~n` | reset last n local commits |
 
 
 | Command |    Description     |
