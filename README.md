@@ -49,14 +49,14 @@ Delete all local branches except **master**: `git branch | grep -v master | xarg
 Dealing with commits:
 
 | Command |    Description     |
-| :-----: | :----------------: |
+| :------ | :----------------: |
 | `git log` | show last commits |
 | `git reset --hard HEAD~n` | reset last n local commits |
 
 Dealing with repos:
 
 | Command |    Description     |
-| :------: | :---------------: |
+| :------- | :---------------: |
 | `git clone` | clone a repo |
 | `git fetch origin` | update local repository |
 
