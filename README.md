@@ -32,18 +32,34 @@ Clone a repository, go into a repository folder and set your credentials:
 
 Git commands
 
+Dealing with branches:
+
+`git branch` displays local branches
+
+`git branch -r` displays remote branches
+
+`git branch --all` displays both local and remote branches
+
+`git checkout <branch-name>` checkout into an existing branch
+
+`git checkout -b <new-branch-name>` create new branch and checkout into it
+
+`git branch -D <branch-name>` delete local branch
+
+`git branch | grep -v master | xargs git branch -D` delete all local branches except master
+
+Dealing with commits:
+
+`git log` show last commits
+
+`git reset --hard HEAD~n` reset last n local commits
+
+
 | Command |    Description     |
 | :------ | :----------------: |
-| git branch | display local branches |
-| git branch -r | display remote branches |
-| git branch --all | display all branches |
-| git branch -D \<branch-name\> | delete local branch |
 | git fetch origin | update local repository |
 | git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
-
-Delete all local brances except dev:
-
-`git branch | grep -v "dev" | xargs git branch -D`
+| git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 
 ## NVM
 
