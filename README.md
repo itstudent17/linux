@@ -30,7 +30,21 @@ Clone a repository, go into a repository folder and set your credentials:
 
 `git config --local user.email itstudent17@outlook.com`
 
-Git commands
+### Git commands
+
+Dealing with branches:
+
+| Command |    Description     |
+| :-----: | :----------------: |
+| `git branch` | displays local branches |
+| `git branch -r` | checkout a remote branch |
+| `git branch --all` | checkout a remote branch |
+| `git checkout <branch-name>` | checkout a remote branch |
+| `git checkout -b <new-branch-name>` | checkout a remote branch |
+| `git checkout -b <new-branch-name>` | checkout a remote branch |
+| `git branch --all` | checkout a remote branch |
+| `git branch --all` | checkout a remote branch |
+| `git branch --all` | checkout a remote branch |
 
 Dealing with branches:
 
