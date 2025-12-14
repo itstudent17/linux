@@ -41,8 +41,10 @@ Dealing with branches:
 | `git branch --all` | displays both local and remote branches |
 | `git checkout {branch-name}` | checkout into an existing branch |
 | `git checkout -b {new-branch-name}` | create a new branch and checkout into it |
+| git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 | `git branch -D {branch-name}` | delete local branch |
-| `git branch | grep -v **master** | xargs git branch -D` | delete all local branches except **master** |
+
+Delete all local branches except **master**: `git branch | grep -v **master** | xargs git branch -D`
 
 Dealing with commits:
 
@@ -51,12 +53,11 @@ Dealing with commits:
 | `git log` | show last commits |
 | `git reset --hard HEAD~n` | reset last n local commits |
 
+Dealing with repos:
 
 | Command |    Description     |
 | :------ | :----------------: |
 | git fetch origin | update local repository |
-| git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
-| git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 
 ## NVM
 
