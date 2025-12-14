@@ -44,7 +44,7 @@ Dealing with branches:
 | git checkout \<branch-name\> origin/\<branch-name\> | checkout a remote branch |
 | `git branch -D {branch-name}` | delete local branch |
 
-Delete all local branches except **master**: `git branch | grep -v **master** | xargs git branch -D`
+Delete all local branches except **master**: `git branch | grep -v master | xargs git branch -D`
 
 Dealing with commits:
 
