@@ -41,7 +41,7 @@ Dealing with branches:
 | `git branch --all` | displays both local and remote branches |
 | `git checkout {branch-name}` | checkout into an existing branch |
 | `git checkout -b {new-branch-name}` | create a new branch and checkout into it |
-| `git branch -D <branch-name>` | delete local branch |
+| `git branch -D {branch-name}` | delete local branch |
 | `git branch | grep -v **master** | xargs git branch -D` | delete all local branches except **master** |
 
 Dealing with commits:
