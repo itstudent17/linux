@@ -57,7 +57,8 @@ Dealing with repos:
 
 | Command |    Description     |
 | :------ | :----------------: |
-| git fetch origin | update local repository |
+| `git clone` | clone a repo |
+| `git fetch origin` | update local repository |
 
 ## NVM
 
