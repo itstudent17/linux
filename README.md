@@ -114,6 +114,10 @@ Best VPN Chrome extension so far is **Free VPN Proxy - 1VPN** (Free VPN Proxy - 
 
 * Live Server (Ritwick Dey)
 
+#### Simple React Snippets
+
+`sfc` creates an arrow function / component
+
 ## PHPStorm / WebStorm
 
 - go to WebStrom Other versions and download a WebStorm-2023.3.8.tar.gz for 2023.3.8 version.
