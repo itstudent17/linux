@@ -277,8 +277,8 @@ Images are imported like objects/components: `import { logo } "./logo.svg";`
 | Command |    Description     |
 | :------ | :----------------: |
 | Win + R | regedit |
+| Win + Alt + R | record video (Xbox Game Bar) |
 | Win + Shift  + S | make screenshot |
-| Win + R | record video |
 
 ## Software
 
