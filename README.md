@@ -272,6 +272,13 @@ Images are imported like objects/components: `import { logo } "./logo.svg";`
 
 [100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet)
 
+# Operation Systems
+
+In order to create a bootable USB disk for Linux Mint / Ubuntu download and install **rufus**, **set FAT32 as file system**
+
+<img width="428" height="594" alt="image" src="https://github.com/user-attachments/assets/c27a1634-5d8e-435a-8806-79b332800a13" />
+
+
 # Windows
 
 | Command |    Description     |
