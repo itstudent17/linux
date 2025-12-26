@@ -2,6 +2,8 @@
 
 Knowledge base about Linux Mint 22 (Cinnamon Edition)
 
+Ubuntu 22.04 LTS (Jammy Jellyfish) отличается от Ubuntu 20.04.5 LTS (Focal Fossa) прежде всего обновлением версии рабочего окружения GNOME до 42й версии.
+
 ## System Updates
 
 `sudo apt update`
