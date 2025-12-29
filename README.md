@@ -120,6 +120,13 @@ Best VPN Chrome extension so far is **Free VPN Proxy - 1VPN** (Free VPN Proxy - 
 
 `sfc` creates an arrow function / component
 
+#### ES7+ React/Redux/React-Native snippets
+
+`rafce` creates functional component with default export and React import
+
+`nfn` creates an arrow function
+
+
 ## PHPStorm / WebStorm
 
 - go to WebStrom Other versions and download a WebStorm-2023.3.8.tar.gz for 2023.3.8 version.
@@ -178,7 +185,7 @@ Wallpapers are stored in /usr/share/backgrounds
 
 CRA is a utility to create React app boilerplate. Since February 14, 2005 is officially depricated. There is no way to install boilerplate for specific React version; we have to adapt boilerplate to particular React version mannually. Firstly, create latest React version boilerplate, then remove node-modules and package-lock.json, and edit package.json for the desired React version. Finally, install new packages and start your application. 
 
-## npx
+## npm / npx
 
 `npx create-react-app <project-name> --template typescript`
 
@@ -187,6 +194,10 @@ CRA is a utility to create React app boilerplate. Since February 14, 2005 is off
 `npm install`
 
 `npm start` / `npm run start`
+
+`npm i styled-components` install as dependency (dependencies block in package.json)
+
+`npm i --save-dev @types/styled-components` install types for a tool as a devDependency (devDependencies in package.json); present only in development
 
 ## yarn
 
@@ -322,6 +333,20 @@ React Patterns:
 ### APIs
 
 [The Star Wars API](https://swapi.dev/)
+
+# React
+
+[The official docs](https://react.dev/learn/react-developer-tools)
+
+# What I don`t know
+
+Types of authorization. How to implement JWT token authorization?
+
+
+Feature flags and how to implement them?
+
+Scaffolding project in
+
 
 
 
