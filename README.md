@@ -340,6 +340,8 @@ React Patterns:
 
 # What I don`t know
 
+debounce / trottle 
+
 Types of authorization. How to implement JWT token authorization?
 
 
