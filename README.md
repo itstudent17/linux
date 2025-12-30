@@ -338,12 +338,27 @@ React Patterns:
 
 [The official docs](https://react.dev/learn/react-developer-tools)
 
+# Typescript
+
+Avoid using <T extends object> or <T extends {}>; use <T extends Record<string, unknown>> instead because Record is safer alternative
+
 # What I don`t know
 
-debounce / trottle 
+# Todo
+
+Take tests at typehero
+
+## JavaScript
+
+debounce / trottle, Promices, async / await
+
+## Typescript
+
+infer, satisfies
+
+## Other
 
 Types of authorization. How to implement JWT token authorization?
-
 
 Feature flags and how to implement them?
 
