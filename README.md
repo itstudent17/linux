@@ -54,8 +54,11 @@ Dealing with commits:
 
 | Command |    Description     |
 | :------ | :----------------: |
-| `git log` | show last commits |
+| `git log` | show last commits (q to close) |
+| `git log --oneline` | show last commits - one commit per line (q to close) |
 | `git reset --hard HEAD~n` | reset last n local commits |
+
+In order to squash last 2 commits: `git reset --soft HEAD~2` then enter commit message in VSCode source control field
 
 Dealing with repos:
 
