@@ -58,7 +58,7 @@ Dealing with commits:
 | `git log --oneline` | show last commits - one commit per line (q to close) |
 | `git reset --hard HEAD~n` | reset last n local commits |
 
-In order to squash last 2 commits: `git reset --soft HEAD~2` then enter commit message in VSCode source control field
+In order to **squash** last 2 commits: `git reset --soft HEAD~2` then enter commit message in VSCode source control field. Soft resetting means that after rolling 2 commit backward all changes in these 2 commits will be staged and one can commit them with new commit message.
 
 Dealing with repos:
 
