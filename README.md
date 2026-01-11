@@ -12,6 +12,8 @@ Ubuntu 22.04 LTS (Jammy Jellyfish) отличается от Ubuntu 20.04.5 LTS 
 
 ## Git
 
+`git init` to inbitalize a git repo
+
 Install the [latest available version](https://git-scm.com/downloads/linux) of git
 
 `sudo add-apt-repository ppa:git-core/ppa`
@@ -66,6 +68,10 @@ Dealing with repos:
 | :------- | :---------------: |
 | `git clone` | clone a repo |
 | `git fetch origin` | update local repository |
+
+## NPM
+
+`npm init -y` initialize npm project / create package.json
 
 ## NVM
 
