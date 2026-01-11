@@ -4,6 +4,8 @@ Knowledge base about Linux Mint 22 (Cinnamon Edition)
 
 Ubuntu 22.04 LTS (Jammy Jellyfish) отличается от Ubuntu 20.04.5 LTS (Focal Fossa) прежде всего обновлением версии рабочего окружения GNOME до 42й версии.
 
+`nano file.txt` edit file.txt; ctrl + X to exit or save changes
+
 ## System Updates
 
 `sudo apt update`
@@ -12,7 +14,7 @@ Ubuntu 22.04 LTS (Jammy Jellyfish) отличается от Ubuntu 20.04.5 LTS 
 
 ## Git
 
-`git init` to inbitalize a git repo
+`git init` to initalize a git repo
 
 Install the [latest available version](https://git-scm.com/downloads/linux) of git
 
@@ -71,7 +73,7 @@ Dealing with repos:
 
 ## NPM
 
-`npm init -y` initialize npm project / create package.json
+`npm init -y` to initialize npm project / create package.json
 
 ## NVM
 
