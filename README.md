@@ -75,6 +75,8 @@ Dealing with repos:
 
 `npm init -y` to initialize npm project / create package.json
 
+`npm install nodemon --save-dev` to instal nodemon package as a devDependency
+
 ## NVM
 
 Use install & update script from the [NVM Github page](https://github.com/nvm-sh/nvm)
