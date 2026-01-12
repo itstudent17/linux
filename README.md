@@ -44,7 +44,7 @@ Dealing with branches:
 | :------ | :----------------: |
 | `git branch` | displays local branches |
 | `git branch -r` | displays remote branches |
-| `git branch --all` | displays both local and remote branches |
+| `git branch --a` / `git branch --all` | displays both local and remote branches |
 | `git checkout {branch-name}` | checkout into an existing branch |
 | `git checkout -b {new-branch-name}` | create a new branch and checkout into it |
 | `git checkout {branch-name} origin/{branch-name}` | checkout a remote branch |
