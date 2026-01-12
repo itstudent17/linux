@@ -36,6 +36,42 @@ Clone a repository, go into a repository folder and set your credentials:
 
 `git config --local user.email itstudent17@outlook.com`
 
+### .gitignore
+
+Dependencies
+
+`/node_modules`
+
+Build artifacts
+
+`/build
+/dist
+/out`
+
+Environment variables
+
+`.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local`
+
+Logs and temporary files
+
+`npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.tsbuildinfo
+.cache
+.eslintcache
+.next      # if using Next.js`
+
+OS and Editor files
+
+`.DS_Store    # macOS
+.vscode      # VS Code specific settings (optional, can be shared with team)`
+
 ### Git commands
 
 Dealing with branches:
