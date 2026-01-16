@@ -324,7 +324,7 @@ Put your code inside bacticks to hightlight it with grey. Use ``` before and aft
 
 # React
 
-CSS files are imported by their address: `import "./index.css";` 
+CSS files are imported as modules via their address: `import "./index.css";` 
 
 Images are imported like objects/components: `import { logo } "./logo.svg";` 
 
