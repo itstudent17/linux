@@ -377,6 +377,18 @@ https://www.rulit.me/
 
 # Interviews
 
+## HR
+
+Почитать информацию про компанию; ее история, чем занимается. Ознакомиться с вакансией
+
+Почему уходишь? Почему мы? На что обращаешь внимание при поиске работы?
+
+Что за проект? На какой срок? Кто будет в команде? Аутстафф? Есть ли возможности карьерного роста (оценка способностей, греды)? 
+
+[15 questions](https://github.com/evgenii-studitskikh/react-ru-interview-questions)
+
+[100 questions](https://github.com/AndrewMosh/react_interview_cheatsheet)
+
 Microfrontends, Feature Sliced Design,
 
 
