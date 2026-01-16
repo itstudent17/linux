@@ -362,6 +362,19 @@ MPC-HC Player
 ![Вывод - Рендер аудио](https://github.com/user-attachments/assets/eaed1336-8943-4885-b857-53bb371ef85e)
 
 
+# Books
+
+Download books in one of the followinf resources:
+
+https://www.rulit.me/
+
+
+# Telegram
+
+* FrontEnd книги для программистов / https://t.me/frontendbook
+
+
+
 # Interviews
 
 Microfrontends, Feature Sliced Design,
