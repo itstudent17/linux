@@ -123,15 +123,13 @@ or
 
 `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
 
-Then install, list and use appropriate node version
+List all **installed** node versions: `nvm ls` (only installed versions can be used!)
 
-`nvm install <stable | 20 | carbon>`
+Install certain node version: `nvm install <stable | 20 | carbon>`
 
-`nvm ls`
+Use installed version: `nvm use <stable | 20 | carbon>`
 
-`nvm use <stable | 20 | carbon>`
-
-`nvm alias default <stable | 20 | carbon>`
+Set certain node version as default: `nvm alias default <stable | 20 | carbon>`
 
 ## Chrome
 
@@ -383,7 +381,9 @@ https://www.rulit.me/
 
 Почему уходишь? Почему мы? На что обращаешь внимание при поиске работы?
 
-Что за проект? На какой срок? Кто будет в команде? Аутстафф? Есть ли возможности карьерного роста (оценка способностей, греды)? 
+Что за проект? На какой срок? Кто будет в команде? Аутстафф? Есть ли возможности карьерного роста (оценка способностей, греды)?
+
+Расскакжи о самом сложном / интересном проекте проекте?
 
 [15 questions](https://github.com/evgenii-studitskikh/react-ru-interview-questions)
 
