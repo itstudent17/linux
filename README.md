@@ -109,7 +109,7 @@ Dealing with repos:
 
 ## NPM
 
-`npm init -y` to initialize npm project / create package.json
+`npm init` initializes npm progect within folder (creates package.json) / `npm init -y` to initialize npm project with default setup
 
 `npm install nodemon --save-dev` to instal nodemon package as a devDependency
 
