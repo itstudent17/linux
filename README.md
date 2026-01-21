@@ -439,6 +439,32 @@ Feature flags and how to implement them?
 Scaffolding project in
 
 
+# Node
+
+Create server with Express:
+
+`npm i express`
+
+const express = require("express");
+
+const app = express();
+
+const PORT = 3000; // Define the port number
+
+app.get("/", (req, res) => {
+  res.send(
+    "<h1>Hello World!</h1><p>This is a simple Express server1121212-.</p>",
+  ); // Send a response
+});
+
+// console.log("Hello World! Hello!");
+app.listen(3000, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
+});
+
+
+
+
 
 
 
