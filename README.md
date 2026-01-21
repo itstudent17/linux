@@ -300,7 +300,7 @@ I order to delete the whole project you need to delete all repositories in the p
 
 `*`, `+`, `-` for bullets
 
-Put your code inside bacticks to hightlight it with grey. Use ``` before and after your code to create a block of code
+Put your code inside bacticks to hightlight it with grey. Use ``` before and after your code to create a block of code (multiline block of code)
 
 ---
 
